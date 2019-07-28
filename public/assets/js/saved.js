@@ -17,7 +17,8 @@ $(document).ready(function() {
           "<div class='saved-div'><p class='saved-text'>" +
             data[i].title +
             '<br>' +
-            data[i].description +
+            data[i].link +
+            // data[i].description +
             "</p><a class='unsave-button button is-danger is-medium' data-id='" +
             data[i]._id +
             "'>Remove</a><a class='comments-button button is-info is-medium' data-id='" +

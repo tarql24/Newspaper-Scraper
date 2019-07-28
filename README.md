@@ -22,9 +22,8 @@ npm install
 ## Screenshots
 
 **Article search home screen**
-[Imgur](https://i.imgur.com/Hvt4K6h.png)
-<blockquote class="imgur-embed-pub" lang="en" data-id="Hvt4K6h"><a href="//imgur.com/Hvt4K6h">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-[img]https://i.imgur.com/Hvt4K6h.png[/img]
+![screenshot-1](https://i.imgur.com/Hvt4K6h.png)
+
 **Article comments modal**
 
 

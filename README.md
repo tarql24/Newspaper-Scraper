@@ -35,7 +35,7 @@ npm install
 
 1. [ ] Make it so it pulls from Los Angeles Times page https://www.latimes.com/latest
 
-##Built with
+## Built with
 * Node.js
 * Express.js NPM Package
 * Body Parser NPM Package

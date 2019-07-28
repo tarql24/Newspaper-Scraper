@@ -1,6 +1,6 @@
 # Newspaper-Scraper
 
-This app allows users to view News articles http://www.echojs.com/, 
+This app allows users to view News articles http://www.echojs.com/, we used the scrape function to grab the lastest news from the site. I was able to get it to pull from [LA Times here](https://www.latimes.com/latest), but it stopped working so I reverted to a simpler site to grab data from. 
 
 ### Dependencies
 

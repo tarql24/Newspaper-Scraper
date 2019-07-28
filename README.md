@@ -36,12 +36,12 @@ npm install
 1. [ ] Make it so it pulls from Los Angeles Times page https://www.latimes.com/latest
 
 ##Built with
-*Node.js
-*Express.js NPM Package
-*Body Parser NPM Package
-*Express Handlebars NPM Package
-*MongoDB
-*Mongoose ODM
-*Bootstrap 4
-*MLab
-*Request NPM Package
+* Node.js
+* Express.js NPM Package
+* Body Parser NPM Package
+* Express Handlebars NPM Package
+* MongoDB
+* Mongoose ODM
+* Bootstraps
+* MLab
+* Request NPM Package

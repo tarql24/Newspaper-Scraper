@@ -24,11 +24,11 @@ npm install
 **Article search home screen**
 ![screenshot-1](https://i.imgur.com/Hvt4K6h.png)
 
+**Article saved screen**
+![screenshot-2](https://i.imgur.com/P84wsGr.png)
+
 **Article comments modal**
-
-
-**Article comments modal**
-
+![screenshot-3](https://i.imgur.com/d1AFMeq.png)
 
 
 ## Future Updates

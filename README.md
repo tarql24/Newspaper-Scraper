@@ -4,7 +4,7 @@ This app allows users to view News articles http://www.echojs.com/,
 
 ### Dependencies
 
-You will need to npm install the following node modules:
+Here are the npm installs for the node modules:
 
 1. express
 2. express-handlebars
@@ -22,7 +22,10 @@ npm install
 ## Screenshots
 
 **Article search home screen**
+[Imgur](https://i.imgur.com/Hvt4K6h.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="Hvt4K6h"><a href="//imgur.com/Hvt4K6h">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+**Article comments modal**
 
 
 **Article comments modal**
@@ -31,4 +34,4 @@ npm install
 
 ## Future Updates
 
-1. [ ] Make it so it pulls from Los Angeles Times page here 
+1. [ ] Make it so it pulls from Los Angeles Times page https://www.latimes.com/latest
